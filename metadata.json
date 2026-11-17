@@ -1,0 +1,6 @@
+{
+  "name": "Razmik vs Gayane — ¡Batalla de Español!",
+  "description": "Juego competitivo e interactivo para practicar los tiempos del pasado en español (Perfecto, Indefinido, Imperfecto y Pluscuamperfecto) con traducción al armenio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
